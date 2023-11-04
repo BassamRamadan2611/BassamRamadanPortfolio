@@ -1,0 +1,66 @@
+{
+    "navbar":{
+        "home":"Home",
+        "about":" About",
+        "skills" :"Skills",
+        "services":"Services",
+        "portfolio":"Projects",
+        "contact":"Contact",
+        "logo":" Bassam Ramdan"
+    },
+    "header":{
+        "hello":"hi",
+        "name" :" Hello I'am Bassam Ramadan ",
+        "job":" I'm Web Developer (Front-End ) & Web Designer ",
+        "btn1":" Contact Me",
+        "btn2":"  Download CV"
+    },
+    "about":{
+        "title":" ABOUT ME ",
+        "who" :" Who am I ?",
+        "text":" I'm Bassam Ramadan Shaaban,I Was graduated From Beni-Suef University, Beni-Suef. I work As A Web Developer (Front End) . I build Websites Using The Following Languages: HTML, Css, JavaScript And Frameworks Like Angular, Bootstrap, What Are You Waiting For? , Contact Me For Work . You Can Download My CV From Here , Thanks.",
+        "btn1":" Contact Me",
+        "btn2":"  Download CV"
+    },
+    "education":{
+        "title":"Beni-Suef University",
+        "text":"Bachelor of Computer Science, Major Information System ",
+        "location":"Beni Suef, Egypt"
+        
+
+    },
+    "skills":{
+        "title":"Skills"
+    },
+    "services":{
+        "title":"Services",
+        "devTitle":"Responsive Development",
+        "devText":"Get your desired web page coded into full responsive HTML & CSS page ready to deploy",
+        "resTitle":"Web App Development",
+        "resText":"Create your complex web app for your business using Angular framework",
+        "angTitle":"Editing & Re-design ",
+        "angText":"Do you have some edits and retouchs or even a complete re-design I am here to do it"
+    
+    },
+    "portfolio":{
+        "title":" Projects"
+    },
+    "contact":{
+        "title":" Contact Me",
+        "social":"Get In Touch",
+        "text":"If you have any questions or want to work with me, please fill the form and I will get back to you as soon as possible. I look forward to hearing from you",
+        "name":" Full Name",
+        "email":" Your Email",
+        "message":"Your Message",
+        "send":"Send"
+    },
+    "all" :{
+        "lang":" Change The Language ",
+        "mode" :" Dark Mode"
+    }
+
+
+
+
+
+    }
